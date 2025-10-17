@@ -1,11 +1,11 @@
 build:
-  version: "3.1"
+  version: "4.1.2"
 
 cards:
   message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Mert Hacioglu - Developer"
+    name: "Mert Hacioglu - Mid Level Developer"
     email: "mhacioglu96@gmail.com"
   onCallSupport:
-    - (412) 419-3491
-    - (915) 382-1932
+    - +44 75936 45677
+    - +90 554 917 21 20
