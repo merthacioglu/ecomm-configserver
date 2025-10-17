@@ -1,10 +1,10 @@
 build:
-  version: "3.3"
+  version: "4.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
-    name: "Mert Hacioglu - Backend Developer"
+    name: "Mert Hacioglu - Mid Level Backend Developer"
     email: "mhacioglu96@gmail.com"
   onCallSupport:
     - +44 75936 45677
