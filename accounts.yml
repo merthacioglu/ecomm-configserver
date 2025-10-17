@@ -1,11 +1,11 @@
 build:
-  version: "3.0"
+  version: "3.1"
 
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    name: "Mert Hacioglu - Developer"
+    email: "mhacioglu96@gmail.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
