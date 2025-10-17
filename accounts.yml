@@ -1,5 +1,5 @@
 build:
-  version: "3.2"
+  version: "3.3"
 
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
@@ -7,5 +7,5 @@ accounts:
     name: "Mert Hacioglu - Backend Developer"
     email: "mhacioglu96@gmail.com"
   onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+    - +44 75936 45677
+    - +90 554 917 21 20
