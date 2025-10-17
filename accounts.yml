@@ -1,5 +1,5 @@
 build:
-  version: "4.1"
+  version: "4.1.1"
 
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
